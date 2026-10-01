@@ -1,0 +1,45 @@
+{
+ "carpet": {
+  "map": "office_t0.webp"
+ },
+ "ceiling": {
+  "map": "office_t1.webp"
+ },
+ "keyboard": {
+  "map": "office_t2.webp"
+ },
+ "can": {
+  "map": "office_t3.webp"
+ },
+ "mug": {
+  "map": "office_t4.webp"
+ },
+ "whiteboard": {
+  "map": "office_t5.webp"
+ },
+ "poster": {
+  "map": "office_t6.webp"
+ },
+ "wallsign": {
+  "map": "office_t7.webp"
+ },
+ "clock": {
+  "map": "office_t8.webp"
+ },
+ "note_pw": {
+  "map": "office_t9.webp"
+ },
+ "note_legal": {
+  "map": "office_t10.webp"
+ },
+ "note_mom": {
+  "map": "office_t11.webp"
+ },
+ "pizza_box": {
+  "map": "office_t12.webp"
+ },
+ "e_exit": {
+  "map": "office_t13.webp",
+  "emissiveMap": "office_t13.webp"
+ }
+}
